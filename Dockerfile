@@ -4,4 +4,4 @@ FROM ubuntu:latest
                 brickrun, -r, --directory=/home/robot/curve1, /home/robot/curve1/main.py
                 brickrun, -r, --directory=/home/robot/curve2, /home/robot/curve2/main.py
                 brickrun, -r, --directory=/home/robot/curve3, /home/robot/curve3/main.py
-                ]
+                brickrun, -r, --directory=/home/robot/curve4, /home/robot/curve4/main.py]
